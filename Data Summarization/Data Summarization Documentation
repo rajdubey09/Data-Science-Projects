@@ -1,0 +1,42 @@
+Drowsiness Detection using Transfer Learning 
+python <--- for programming language
+OpenCV <--- for rectangle 
+Tensorflow <--- for open and closed eyes status
+Flask <--- for backend development
+
+
+Objective :- used to play an alarm based on the eyes status as it is closed more than usual time like 7 or 8 seconds.
+
+
+************************* Natural Language Processing ************************* 
+
+Applications of NLP :-
+	
+	AutoCorrect/ AutoComplete
+	Voice Assistent
+	Sentiment Analysis 
+	Speech Recognition
+	Text Extraction/ Summarization
+
+Data Summarization 
+	
+
+We will be Using :-
+	Hugging Face :- pre-trainned Model
+	Python 
+	HTML CSS
+	Flask :- for the backend using python
+
+****************************** Installation ****************************** 
+
+#to create new Environment 
+python -m venv EnvName
+
+#to activate your virtaul environment 
+.\EnvName\Scripts\activate
+
+#to install flask
+pip install flask
+
+#to run flask app
+flask run
