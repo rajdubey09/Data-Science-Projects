@@ -1,0 +1,14 @@
+****************** Home Price Prediction System ****************** 
+
+Technologies Used : -
+	Python <- Programming Language
+	Pandas <- Data Cleaning 
+	Matplotlib <- Data Visualization
+	Sklearn <- Model Building
+	Flask <- Back End Server
+	HTML CSS JS <- UI
+
+Tool Used : -
+	Jupyter Notebook
+	Visual Studio Code
+
